@@ -1,2 +1,2 @@
 # GameEngine_H_DA
- A GameEngine made for a course at the Hochschule Darmstadt
+ A Entry-Level C++ GameEngine made for a course at the Hochschule Darmstadt to learn more about C++.
